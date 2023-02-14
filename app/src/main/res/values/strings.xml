@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Self Promotion</string>
+    <string name="hint_nome_contato">Nome do Contato</string>
+    <string name="hint_numero_contato">Número do Contato</string>
+    <string name="hint_meu_nome">Meu Nome</string>
+    <string name="text_incluir_junior">Incluir \'Junior\'</string>
+    <string name="text_comeco_imediato">Começo imediato</string>
+    <string name="hint_disponivel">Disponível a partir de</string>
+    <string name="text_ver_previa">Ver prévia</string>
+    <string name="button_text_enviar_mensagem">Enviar mensagem</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_nome_contato">Nom du Contact</string>
+    <string name="app_name">Auto-promotion sans vergogne</string>
+    <string name="hint_numero_contato">Numero du Contato</string>
+    <string name="hint_meu_nome">Mon Nom</string>
+    <string name="text_incluir_junior">Inclui \'Junior\'</string>
+    <string name="text_comeco_imediato">Comance imediatement</string>
+    <string name="hint_disponivel">Disponible a partir du</string>
+    <string name="text_ver_previa">Voir preview</string>
+    <string name="button_text_enviar_mensagem">Envoyer message</string>
+
+</resources>
