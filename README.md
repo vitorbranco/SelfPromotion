@@ -18,8 +18,8 @@ O app Self Promotion (Auto Promoção) é um aplicativo android nativo desenvolv
     - TextInputEditText
     - TextView, CardView
     - Button, CheckBox, Spinner
-- Intent Explícita para abrir segunda Acitivity
-- Intent Implícita para abrir aplicativo de mensagens do sistema
+- Intent Explicita para abrir segunda Acitivity
+- Intent Implicita para abrir aplicativo de mensagens do sistema
 - Extensão 'kotlin-android-extensions' para recuperar componentes de UI
 - getSerializableExtra para recuperar dados da intent
 
