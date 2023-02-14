@@ -3,7 +3,7 @@ O app Self Promotion (Auto Promoção) é um aplicativo android nativo desenvolv
 
 
 
-## :camera_flash: Screenshots
+## 📷 Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/img1.png" width="260">&emsp;<img src="/results/img2.png" width="260">&emsp;<img src="/results/img3.png" width="260">; <img src="/results/img4.png" width="260">; <img src="/results/img5.png" width="260">
 
@@ -29,7 +29,7 @@ O app Self Promotion (Auto Promoção) é um aplicativo android nativo desenvolv
 - Disponibilizar para diversos idiomas
 - Integrar com WhatsApp
 
-## Referências
+## 📚 Referências
 * https://developer.android.com/reference/com/google/android/material/textfield/TextInputLayout
 * https://developer.android.com/reference/com/google/android/material/textfield/TextInputEditText
 * https://developer.android.com/reference/android/widget/ScrollView
