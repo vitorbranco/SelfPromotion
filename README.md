@@ -29,6 +29,16 @@ O app Self Promotion (Auto Promoção) é um aplicativo android nativo desenvolv
 - Disponibilizar para diversos idiomas
 - Integrar com WhatsApp
 
+## Referências
+* https://developer.android.com/reference/com/google/android/material/textfield/TextInputLayout
+* https://developer.android.com/reference/com/google/android/material/textfield/TextInputEditText
+* https://developer.android.com/reference/android/widget/ScrollView
+* https://developer.android.com/reference/android/widget/LinearLayout
+* https://developer.android.com/reference/androidx/cardview/widget/CardView
+* https://developer.android.com/reference/android/widget/Spinner
+* https://developer.android.com/reference/android/widget/CheckBox
+* https://developer.android.com/reference/android/content/Intent
+
 ## 🖋 Autor
 Vitor Xatara Branco ([LinkedIn](https://www.linkedin.com/in/vitor-xatara-branco/))
 
