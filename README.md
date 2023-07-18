@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/vitorbranco/SelfPromotion)
 # Self Promotion
 O app Self Promotion (Auto Promoção) é um aplicativo android nativo desenvolvido na linguagem Kotlin, que gera uma mensagem automática para recrutadores da área de tecnologia, com base nas informações fornecidas pelo usuário.
 
